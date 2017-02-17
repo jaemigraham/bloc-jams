@@ -25,4 +25,4 @@ window.onload = function () {
          animatePoints(pointsArray);
       }
    });
-}
+};
